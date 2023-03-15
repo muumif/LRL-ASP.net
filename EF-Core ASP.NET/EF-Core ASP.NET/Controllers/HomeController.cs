@@ -1,8 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ContosoUniversity.Data;
-using ContosoUniversity.Models.SchoolViewModels;
+using ContosoUniversity.Models;
 using Microsoft.Extensions.Logging;
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
 
 namespace ContosoUniversity.Controllers
 {
@@ -30,7 +31,7 @@ namespace ContosoUniversity.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new ErrorViewModel { RequestId = Activity.Current.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }

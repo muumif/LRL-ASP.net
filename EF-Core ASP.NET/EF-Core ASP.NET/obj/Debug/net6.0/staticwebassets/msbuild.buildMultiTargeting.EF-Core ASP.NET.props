@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EF-Core ASP.NET.props" />
+</Project>

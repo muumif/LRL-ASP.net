@@ -1,0 +1,17 @@
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\bin\Debug\net7.0-windows\Math.exe
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\bin\Debug\net7.0-windows\Math.deps.json
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\bin\Debug\net7.0-windows\Math.runtimeconfig.json
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\bin\Debug\net7.0-windows\Math.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\bin\Debug\net7.0-windows\Math.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.csproj.AssemblyReference.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.Form1.resources
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.csproj.GenerateResource.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.AssemblyInfoInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.AssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.csproj.CoreCompileInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\refint\Math.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\Math.genruntimeconfig.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Math\Math\obj\Debug\net7.0-windows\ref\Math.dll

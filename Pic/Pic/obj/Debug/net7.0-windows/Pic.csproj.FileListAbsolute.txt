@@ -1,0 +1,17 @@
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\bin\Debug\net7.0-windows\Pic.exe
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\bin\Debug\net7.0-windows\Pic.deps.json
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\bin\Debug\net7.0-windows\Pic.runtimeconfig.json
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\bin\Debug\net7.0-windows\Pic.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\bin\Debug\net7.0-windows\Pic.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.csproj.AssemblyReference.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Math_quiz.Form1.resources
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.csproj.GenerateResource.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.AssemblyInfoInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.AssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.csproj.CoreCompileInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\refint\Pic.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\Pic.genruntimeconfig.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Pic\Pic\obj\Debug\net7.0-windows\ref\Pic.dll
