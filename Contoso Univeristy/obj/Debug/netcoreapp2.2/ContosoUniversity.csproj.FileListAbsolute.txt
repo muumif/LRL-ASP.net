@@ -1,0 +1,11 @@
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.csprojAssemblyReference.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.AssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.input.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.TagHelpers.output.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Contoso Univeristy\obj\Debug\netcoreapp2.2\ContosoUniversity.RazorCoreGenerate.cache

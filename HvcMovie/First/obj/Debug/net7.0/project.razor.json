@@ -1,0 +1,91 @@
+{
+  "SerializedFilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\First.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "First",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\List\\Welcome.cshtml",
+      "TargetPath": "Views\\List\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\List\\Index.cshtml",
+      "TargetPath": "Views\\List\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\u-31\\Documents\\LRL-ASP.net\\HvcMovie\\First\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
