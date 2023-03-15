@@ -1,0 +1,104 @@
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\appsettings.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.staticwebassets.runtime.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.exe
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.deps.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.runtimeconfig.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Blazor server.pdb
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.csproj.AssemblyReference.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.AssemblyInfoInputs.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.AssemblyInfo.cs
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.csproj.CoreCompileInputs.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.RazorAssemblyInfo.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.RazorAssemblyInfo.cs
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.Blazor server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.build.Blazor server.props
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blazor server.props
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blazor server.props
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\scopedcss\bundle\Blazor server.styles.css
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\scopedcss\projectbundle\Blazor server.bundle.scp.css
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.csproj.CopyComplete
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\refint\Blazor server.dll
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.pdb
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\Blazor server.genruntimeconfig.cache
+C:\Users\jlamp\Documents\C# ASP.NET website\Blazor server\Blazor server\obj\Debug\net6.0\ref\Blazor server.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\appsettings.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.staticwebassets.runtime.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.exe
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.deps.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.runtimeconfig.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Blazor server.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.csproj.AssemblyReference.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.AssemblyInfoInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.AssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.csproj.CoreCompileInputs.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.RazorAssemblyInfo.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.RazorAssemblyInfo.cs
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.Blazor server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.build.Blazor server.props
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Blazor server.props
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Blazor server.props
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\scopedcss\bundle\Blazor server.styles.css
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\scopedcss\projectbundle\Blazor server.bundle.scp.css
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.csproj.CopyComplete
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\refint\Blazor server.dll
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.pdb
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\Blazor server.genruntimeconfig.cache
+C:\Users\u-31\Documents\LRL-ASP.net\Blazor\BlazorServer\Blazor server\obj\Debug\net6.0\ref\Blazor server.dll
