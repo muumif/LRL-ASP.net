@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "x/GQBlZ7mRmILGkqOvDOPVRKzGKaZlg3mnCvba2tHlwhEnSmYz5RGXufZJ2CNDZmkOgpDAHjAOuu7pZW1oiPcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u-31\\Documents\\LRL-ASP.net\\Calculator\\CalculatorLib\\CalculatorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u-31\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\u-31\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

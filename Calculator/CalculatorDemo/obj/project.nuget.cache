@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwHmUrN00L5mUBy776VF4JwLsz30LT0wSmcc/4vIz9bhY+DWtO4WxuvcZ6C1BetghitY5Bcghvryw9t+Sgnt/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\u-31\\Documents\\LRL-ASP.net\\Calculator\\CalculatorDemo\\CalculatorDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\u-31\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
